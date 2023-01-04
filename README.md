@@ -1,4 +1,4 @@
-## 💜 Hello, my name is <strong>{Jhiorgenes Victor}!</strong>
+## 💜 Hello, my name is <strong>Jhiorgenes Victor!</strong>
 
 > I am Front End Developer
 
