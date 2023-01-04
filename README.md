@@ -1,4 +1,4 @@
-<img align="right"  src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/trust%20me.gif" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/trust%20me.gif" />
 
 ## 💜 Hello, my name is <strong>Jhiorgenes Victor!</strong>
 
