@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-<img align="end" height="100" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/trust%20me.gif" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/trust%20me.gif" />
 
 ----
 
