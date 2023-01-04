@@ -3,18 +3,18 @@
 
 
 ```js
-import Desenvolvedor from 'Jhiorgenes';
+import Developer from 'Jhiorgenes';
 
 class AboutMe extends Developer {
-  nome     = 'Jhiorgenes Victor';
+  name     = 'Jhiorgenes Victor';
   area    = 'FrontEnd';
-  trabalho  = 'open to hire';
+  work  = 'open to hire';
   local = 'Brazil - MG';
 }
 
 class Skills extends Developer {
-  linguagens  = ['Javascript, Typescript'];
-  bibliotecas  = ['TalwindCSS, Styled-Components, ChakraUI, Bootstrap, Sass,'];
+  languages  = ['Javascript, Typescript'];
+  libs  = ['TalwindCSS, Styled-Components, ChakraUI, Bootstrap, Sass,'];
   frameworks = ['React, NextJs'];
 }
 ```
