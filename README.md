@@ -22,5 +22,5 @@
 ---
 
 
-https://profile-counter.glitch.me/Jhiorgenes/count.svg
+(https://profile-counter.glitch.me/Jhiorgenes/count.svg)
 
