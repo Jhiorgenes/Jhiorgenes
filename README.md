@@ -14,7 +14,7 @@ class AboutMe extends Developer {
 
 class Skills extends Developer {
   linguagens  = ['Javascript, Typescript'];
-  bibliotecas  = ['TalwindCSS, ChakraUI, Bootstrap, Sass, Styled-Components'];
+  bibliotecas  = ['TalwindCSS, Styled-Components, ChakraUI, Bootstrap, Sass,'];
   frameworks = ['React, NextJs'];
 }
 ```
