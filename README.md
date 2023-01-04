@@ -2,7 +2,7 @@
 
 > I am Front End Developer
 
-
+<img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 💬 if you want to get in contact don't hesitate to send me an email: jhiorgenes.santos@gmail.com.
 
 ----
